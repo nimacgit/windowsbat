@@ -1,0 +1,1 @@
+attrib /s /d /l -a -r -s -h -i *.*

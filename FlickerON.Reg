@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"Flags"="127"
+[HKEY_CURRENT_USER\Control Panel\Accessibility\SoundSentry]
+"Flags"="3"
+"WindowsEffect"="3"
